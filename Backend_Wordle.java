@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
-//import Tools.Search.Binary;
-//import Wordle.Backend.hintClasses.Hint;
-//import Wordle.Backend.hintClasses.HintedAlphabet;
-//import Wordle.texts.fileInteraction;
+import Tools.Search.Binary;
+import Wordle.Backend.hintClasses.Hint;
+import Wordle.Backend.hintClasses.HintedAlphabet;
+import Wordle.texts.fileInteraction;
 
 public class backendW
 {
