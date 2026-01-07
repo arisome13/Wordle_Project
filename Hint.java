@@ -1,5 +1,7 @@
+package GitWordle;
+
 public enum Hint {
-  RIGHT,
-  WRONG,
-  INWORD
+    RIGHT, // O
+    WRONG, // X
+    INWORD // E
 }
